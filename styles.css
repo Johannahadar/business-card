@@ -12,9 +12,10 @@ bbody {
     width: 150px;
 }
 
-.description{
-    font-size: large ;
+.description {
+    font-size: large;
 }
+
 .card {
     width: 400px;
     margin: 0 auto;
@@ -25,7 +26,8 @@ bbody {
     background: #ba5e8d;
     color: whitesmoke;
     border-bottom: 6px solid #d8cefe;
-        
+    margin-top: 80px;
+
     /*
     Challenge:
     Find a color palette you like on Coolors.co
@@ -48,4 +50,3 @@ the design of your business card, e.g.:
 - hover effects  🤯🤯
 - animations     🤯🤯🤯
 */
-
